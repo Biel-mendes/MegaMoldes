@@ -2,4 +2,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://megamoldes.netlify.app/sitemap.xml
+Sitemap: http://megamoldes.com.br//sitemap.xml
