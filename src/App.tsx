@@ -8,6 +8,7 @@ import Propaganda from './components/Propaganda'
 import Orcamento from './components/Orcamento'
 import Contato from './components/Contato'
 import Rodape from './components/Rodape'
+import BotaoContato from './components/BotaoContato'
 
 function App() {
 
@@ -22,6 +23,7 @@ function App() {
       <Orcamento />
       <Contato />
       <Rodape />
+      <BotaoContato />
     </>
   )
 }
